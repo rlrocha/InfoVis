@@ -6,4 +6,5 @@ O trabalho desenvolvido visar criar uma Caso de Uso utilizando Altair/Vega-Lite.
 
 ## Base de dados
 
+Utilizou-se a [base de dados](datasets/houses_to_rent_v2.csv) de casas para
 Link <https://www.kaggle.com/rubenssjr/brasilian-houses-to-rent>
