@@ -8,7 +8,7 @@ Já o segundo (TP1.2) visar criar uma Caso de Uso utilizando Altair/Vega-Lite. D
 
 ## [TP1.1](https://public.tableau.com/profile/rlrocha#!/vizhome/aeronautics_accidents_in_brazil/Histria1)
 
-Foram utilizadas as bases de dados que contém informações de acidentes aeronáuticos no Brasil entre 2005 e 2015 no TP1.1. Uma base contém informações sobre as aeronaves envolvidas nas ocorrências e a outra informações sobre as ocorrências aeronáuticas durante esses 10 anos. As bases estão disponíveis em: <https://www.kaggle.com/paulovasconcellos/aeronautics-accidents-in-brazil>.
+Foram utilizadas as bases de dados que contém informações de acidentes aeronáuticos no Brasil entre 2005 e 2015 no TP1.1. Uma base contém informações sobre as aeronaves envolvidas nas ocorrências e a outra, informações sobre as ocorrências aeronáuticas durante esses 10 anos. As bases estão disponíveis em: <https://www.kaggle.com/paulovasconcellos/aeronautics-accidents-in-brazil>.
 
 ## [TP1.2](TP1_RafaelRocha.ipynb)
 
